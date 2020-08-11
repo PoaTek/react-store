@@ -1,7 +1,7 @@
 # react-store
 Storing data in React with context API.
 ## What is react store?
-React store is a context wrapper to hold a variable combined with a architecture to organize data flux. The core of the store is mutation of the stored variable and react updating after the mutation is done, this behaviour can be achieved with four key functionalities:
+React store is a context wrapper to hold a variable combined with a architecture to organize data flux. The core of the store is mutation of the stored variable and React updating after the mutation is done, this behaviour can be achieved with four key functionalities:
 * Getting the instance of the stored variable from anywhere.
 * Mutating the stored variable instance.
 * Listening to the store to trigger a re-render in the component.
